@@ -23,9 +23,9 @@
 <a href="https://www.hackerrank.com/egagofurtriwahana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="egagofurtriwahana1" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egagofur&show_icons=true&locale=en&layout=compact" alt="egagofur" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egagofur&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egagofur&show_icons=true&locale=en" alt="egagofur" /></p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=egagofur&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&" alt="egagofur" /></p>
 
