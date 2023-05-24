@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ega Gofur</h1>
 <h3>Frontend Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> 
@@ -17,6 +17,8 @@
 - 🌟 Currently, `Next Js` and `Express` are my favorite tech stack.
 - 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
 - ⚡ Fun fact **I work with React Ecosystem ⚛️**
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <p align=center>
   <a href="https://t.me/egagofur">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
