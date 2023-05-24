@@ -4,6 +4,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> </p>
+<p align="center">
   <a href="https://github.com/egagofur"><img src="https://img.shields.io/github/followers/egagofur?label=followers&style=social"/></a>
 </p>
 
