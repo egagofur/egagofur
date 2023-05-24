@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ega Gofur</h1>
-<h3>Frontend Engineer</h3>
+<h3>Frontend Engineer 🧑🏻‍💻</h3>
 
 
 <p>
