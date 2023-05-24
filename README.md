@@ -10,6 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About Me
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
@@ -17,7 +18,6 @@
 - 🌟 Currently, `Next Js` and `Express` are my favorite tech stack.
 - 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
 - ⚡ Fun fact **I work with React Ecosystem ⚛️**
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align=center>
   <a href="https://t.me/egagofur">
