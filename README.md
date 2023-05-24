@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ega Gofur</h1>
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ega Gofur</h1>
 <h3 align="center">Frontend Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egagofur&show_icons=true&locale=en" alt="egagofur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&" alt="egagofur" /></p>
+
+![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
