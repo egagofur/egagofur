@@ -2,31 +2,81 @@
 <h3>Frontend Engineer from Indonesia 🇮🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> </p>
-
-- 🔭 I’m currently working on **PAMA Tax-System**
-
-- 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
-
-- 💬 Ask me about **react, next-js, and astro**
-
-- 📫 How to reach me? **egagofurtriwahana@gmail.com**
-
-- ⚡ Fun fact **I work with React Ecosystem ⚛️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/egagofur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egagofur" height="30" width="40" /></a>
-<a href="https://instagram.com/egagofur_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egagofur_" height="30" width="40" /></a>
-<a href="https://medium.com/@egagofurtriwahana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@egagofurtriwahana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/egagofurtriwahana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="egagofurtriwahana1" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> </p>
+  <a href="https://github.com/egagofur"><img src="https://img.shields.io/github/followers/egagofur?label=followers&style=social"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egagofur&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=egagofur&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+### About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&" alt="egagofur" /></p>
+- 👨🏻‍💼 My name is `Ega Gofur`
+- 🏠 Live in `Malang, Indonesia`
+- 🧍🏻‍♂️ `18` years old
+- 🌟 Currently, `Next Js` and `Express` are my favorite tech stack.
+- 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
+- ⚡ Fun fact **I work with React Ecosystem ⚛️**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Contact Me
+
+<p align=center>
+  <a href="https://t.me/egagofur">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
+  </a>&nbsp;
+<!--   <a href="https://facebook.com/egagofur">
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
+  </a>&nbsp; -->
+  <a href="https://www.linkedin.com/mwlite/in/egagofur"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
+  <a href="https://instagram.com/egagofur_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Tech Stack 👨🏻‍💻
+
+#### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+
+#### Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+<!-- ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=Fastify&logoColor=white) -->
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+<!-- ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=tRPC&logoColor=white) -->
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
+<!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Stats 📋
+
+ GitHub Stats | Contribution Streak |
+| --- | --- |
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> |
+
+| Most Used Languages |
+| --- |
+|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> 
+
 
 ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
