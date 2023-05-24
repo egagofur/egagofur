@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, next-js, and astro**
 
-- 📫 How to reach me **egagofurtriwahana@gmail.com**
+- 📫 How to reach me? **egagofurtriwahana@gmail.com**
 
 - ⚡ Fun fact **I work with React Ecosystem ⚛️**
 
