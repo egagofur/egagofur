@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egagofur&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=egagofur&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) </p>
+<p>[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=egagofur&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&" alt="egagofur" /></p>
 
