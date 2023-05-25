@@ -19,9 +19,10 @@
 - 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
 - ⚡ Fun fact **I work with React Ecosystem ⚛️**
  
+ <p align="center">
   <a href="https://t.me/egagofur">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
-  </a>
+  </a>&nbsp;
 <!--   <a href="https://facebook.com/egagofur">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>&nbsp; -->
@@ -48,9 +49,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) -->
  
- <p align="center">
+ <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,astro,vite,tailwind" />
   </a>
 </p>
 
@@ -63,6 +64,12 @@
 <!-- ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=Fastify&logoColor=white) -->
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
 <!-- ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=tRPC&logoColor=white) -->
+ 
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,js,ts,express,prisma" />
+  </a>
+</p>
 
 #### Databases
 
@@ -71,9 +78,15 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) -->
  
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  </a>
+</p>
+ 
  
 #### Other
-![](https://skillicons.dev/icons?i=vercel,slack,git,github,gitlab)
+![](https://skillicons.dev/icons?i=vercel,netlify,slack,vscode,git,github,gitlab)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
