@@ -1,5 +1,5 @@
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ega Gofur</h1>
-<h2>Frontend Engineer 🧑🏻‍💻</h3>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="egagofur.my.id" style="color:#0d6efd;text-decoration: none;">Ega Gofur</a></h1>
+<h4 align="center">Frontend Intern DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Front-end Developer<a href="/"></h4>
 
 
 <p>
@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
-   <summary><h2>📊 Statistics</h2></summary>
+   <summary><b>Extra Information</b></summary>
 
 ### Tech Stack 👨🏻‍💻
 
@@ -65,6 +65,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) -->
+ 
+https://skillicons.dev/icons?i=vercel,git,github)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
