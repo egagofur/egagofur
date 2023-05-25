@@ -45,7 +45,7 @@
  
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,js,ts,express,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,prisma" />
   </a>
 </p>
 
