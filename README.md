@@ -15,8 +15,7 @@
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `18` years old
 - 🌟 Currently, `Next Js` and `Express` are my favorite tech stack.
-- 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
-- ⚡ Fun fact **I work with React Ecosystem ⚛️**
+- ⚡ Fun fact **I work with React Ecosystem**
  
  <p align="center">
   <a href="https://t.me/egagofur">
