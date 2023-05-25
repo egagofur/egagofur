@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="egagofur.my.id" style="color:#0d6efd;text-decoration: none;">Ega Gofur</a></h1>
 <h4 align="center">Frontend Intern DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Front-end Developer<a href="/"></h4>
 
-
+ [![](https://visitcount.itsvg.in/api?id=egagofur&label=Github%20views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <p>
-<img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> 
+<!-- <img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" />  -->
  <a href="https://github.com/egagofur"><img src="https://img.shields.io/github/followers/egagofur?label=followers&style=social"/></a>
 </p>
 
@@ -66,7 +66,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) -->
  
-https://skillicons.dev/icons?i=vercel,git,github)
+![Other](https://skillicons.dev/icons?i=vercel,git,github)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
