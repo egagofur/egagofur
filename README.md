@@ -35,7 +35,7 @@
 
 #### Front-end
  
- <p>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,astro,vite,tailwind" />
   </a>
@@ -43,7 +43,7 @@
 
 #### Back-end
  
- <p>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,prisma" />
   </a>
@@ -51,7 +51,7 @@
 
 #### Databases
  
-  <p>
+ <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
   </a>
@@ -59,7 +59,12 @@
  
  
 #### Other
-![](https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab)
+
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
