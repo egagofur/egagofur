@@ -2,9 +2,8 @@
 <h4 align="center">Frontend Intern DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Front-end Developer<a href="/"></h4>
 
 <p>
-<!-- <img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" />  -->
+<img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> 
  <a href="https://github.com/egagofur"><img src="https://img.shields.io/github/followers/egagofur?label=followers&style=social"/></a>
-  <a https://visitcount.itsvg.in/api?id=egagofur&label=Github%20views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)/></a>
 </p>
  
 
@@ -19,11 +18,10 @@
 - 🌟 Currently, `Next Js` and `Express` are my favorite tech stack.
 - 👨‍💻 All of my projects are available at [egagofur.my.id](egagofur.my.id)
 - ⚡ Fun fact **I work with React Ecosystem ⚛️**
-
-<p align=center>
+ 
   <a href="https://t.me/egagofur">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
-  </a>&nbsp;
+  </a>
 <!--   <a href="https://facebook.com/egagofur">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>&nbsp; -->
