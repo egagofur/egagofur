@@ -57,7 +57,7 @@
 </p>
  
  
-#### Other
+#### Tools
 
  <p>
   <a href="https://skillicons.dev">
