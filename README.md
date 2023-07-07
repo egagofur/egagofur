@@ -36,7 +36,7 @@
  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,astro,vite,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,astro,vite,tailwind" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,prisma,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,prisma,laravel,nestjs" />
   </a>
 </p>
 
