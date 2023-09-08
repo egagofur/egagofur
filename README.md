@@ -25,8 +25,6 @@
   <a href="https://instagram.com/egagofur_"  target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <details>
    <summary><b>Extra Information</b></summary>
 
