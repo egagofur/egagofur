@@ -1,5 +1,5 @@
 <h1 align="center"><span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><span>, I'm </span><a href="https://egagofur.my.id" style="color:#0d6efd;text-decoration: none;"><span>Ega Gofur</span></a></h1>
-<h4 align="center">Frontend Intern DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Frontend Engineer<a href="/"></h4>
+<h4 align="center">Frontend Intern PT DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Frontend Engineer<a href="/"></h4>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> 
