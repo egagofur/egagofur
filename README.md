@@ -1,4 +1,4 @@
-<h1 align="center" style={display: flex}>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://egagofur.my.id" style="color:#0d6efd;text-decoration: none;">Ega Gofur</a></h1>
+<h1 align="center" style={display: flex;}>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://egagofur.my.id" style="color:#0d6efd;text-decoration: none;">Ega Gofur</a></h1>
 <h4 align="center">Frontend Intern DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Frontend Engineer<a href="/"></h4>
 
 <p>
