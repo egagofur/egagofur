@@ -73,9 +73,7 @@
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> |
 
 | Most Used Languages |
-| --- |
-|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack,php,blade" /> |
-
-<a href="https://app.daily.dev/egagofur"><img src="https://api.daily.dev/devcards/05ea36b1333147669144576734bbb3d6.png?r=mkl" width="400" alt="ega gofur's Dev Card"/></a>
+| --- | --- |
+|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack,php,blade" /> | <a href="https://app.daily.dev/egagofur"><img src="https://api.daily.dev/devcards/05ea36b1333147669144576734bbb3d6.png?r=mkl" width="400" alt="ega gofur's Dev Card"/></a> |
  
  </details>
