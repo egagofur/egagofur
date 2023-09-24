@@ -7,7 +7,7 @@
  <a href="https://github.com/egagofur"><img src="https://img.shields.io/github/followers/egagofur?label=followers&style=social"/></a>
 </p>
 
-<center><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center>
+<div style={display: flex; align-items: center; justify-content: center;}><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></div>
 
 ### About Me
 
