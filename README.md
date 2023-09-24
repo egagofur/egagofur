@@ -1,4 +1,5 @@
 <h1 align="center"><span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><span>, I'm </span><a href="https://egagofur.my.id" style="color:#0d6efd;text-decoration: none;"><span>Ega Gofur</span></a></h1>
+<img src="https://api.daily.dev/devcards/05ea36b1333147669144576734bbb3d6.png?r=mkl" width="200" alt="ega gofur's Dev Card"/>
 <h4 align="center">Frontend Intern PT DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Frontend Engineer<a href="/"></h4>
 
 <p>
@@ -73,7 +74,7 @@
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> |
 
 | Most Used Languages |
-| --- | --- |
-|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack,php,blade" /> | <img src="https://api.daily.dev/devcards/05ea36b1333147669144576734bbb3d6.png?r=mkl" width="200" alt="ega gofur's Dev Card"/> |
+| --- |
+|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack,php,blade" /> |
  
  </details>
