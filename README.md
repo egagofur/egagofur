@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<a href="https://app.daily.dev/egagofur"><img src="https://api.daily.dev/devcards/05ea36b1333147669144576734bbb3d6.png?r=mkl" width="400" alt="ega gofur's Dev Card"/></a>
+
 ### About Me
 
 - 👨🏻‍💼 My name is `Ega Gofur`
