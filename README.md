@@ -44,7 +44,7 @@
  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nestjs,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nestjs,prisma,laravel" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
  
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker" />
   </a>
 </p>
  
