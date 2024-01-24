@@ -14,7 +14,7 @@
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `18` years old
-- 🌟 Currently, `Next Js` and `Laravel` are my favorite tech stack.
+- 🌟 Currently, `Nest Js` and `Laravel` are my favorite tech stack.
 - ⚡ Fun fact **I work with React Ecosystem**
  
  <p align="center">
