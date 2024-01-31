@@ -51,7 +51,7 @@
  
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
   </a>
 </p>
  
@@ -60,7 +60,7 @@
 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab,docker" />
   </a>
 </p>
 
