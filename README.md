@@ -60,7 +60,7 @@
 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab,docker" />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab,docker,sentry" />
   </a>
 </p>
 
