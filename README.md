@@ -14,7 +14,7 @@
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `18` years old
 - 🌟 Currently, `Nest Js` and `Laravel` are my favorite tech stack.
-- ⚡ Fun fact **I work with React Ecosystem**
+- ⚡ Fun fact **I work with Typescript Ecosystem**
  
  <p align="center">
   <a href="https://t.me/egagofur" target="_blank">
