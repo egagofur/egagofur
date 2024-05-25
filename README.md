@@ -15,6 +15,9 @@
 - 🧍🏻‍♂️ `18` years old
 - 🌟 Currently, `Nest Js` and `Next Js` are my favorite tech stack.
 - ⚡ Fun fact **I work with Typescript Ecosystem**
+
+### Most Used Languages
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
  
  <p align="center">
   <a href="https://t.me/egagofur" target="_blank">
@@ -70,10 +73,5 @@
 
  GitHub Stats | Contribution Streak |
 | --- | --- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> |
-
-| Most Used Languages |
-| --- |
-|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> |
- 
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> | 
  </details>
