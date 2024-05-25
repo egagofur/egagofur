@@ -35,7 +35,7 @@
  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,astro,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,supabase,astro,vite,tailwind" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nestjs,prisma,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nestjs,prisma,rabbitmq" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,git,github,gitlab,docker,sentry" />
+    <img src="https://skillicons.dev/icons?i=vercel,postman,pnpm,vscode,git,github,gitlab,docker,sentry,nix" />
   </a>
 </p>
 
