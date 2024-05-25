@@ -19,7 +19,7 @@
 ### Most Used Languages
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
  
- <p align="center">
+ <p align="left">
   <a href="https://t.me/egagofur" target="_blank">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
   </a>&nbsp;
