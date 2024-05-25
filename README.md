@@ -74,6 +74,6 @@
 
 | Most Used Languages |
 | --- |
-|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,js,php,blade" /> |
+|  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> |
  
  </details>
