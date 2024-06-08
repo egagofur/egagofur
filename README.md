@@ -12,7 +12,7 @@
 
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
-- 🧍🏻‍♂️ `${2024 - new Date().getYear()}` years old
+- 🧍🏻‍♂️ `19` years old
 - 🌟 Currently, `Nest Js` and `Next Js` are my favorite tech stack.
 - ⚡ Fun fact **I work with Typescript Ecosystem**
 
