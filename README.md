@@ -13,8 +13,6 @@
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `19` years old
-- 🌟 Currently, `Nest Js` and `Next Js` are my favorite tech stack.
-- ⚡ Fun fact **I work with Typescript Ecosystem**
 
 ### Most Used Languages
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
