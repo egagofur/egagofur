@@ -19,19 +19,18 @@
  
  <p align="left">
   <a href="https://t.me/egagofur" target="_blank">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
+    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" >
   </a>&nbsp;
   <a href="https://www.linkedin.com/mwlite/in/egagofur"target="_blank">
-   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" >
   </a>&nbsp;
   <a href="https://instagram.com/egagofur_" target="_blank">
-   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" >
   </a>&nbsp;
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<details>
    <summary><b>Extra Information</b></summary>
 
 ### Tech Stack 👨🏻‍💻
@@ -76,4 +75,3 @@
  GitHub Stats | Contribution Streak |
 | --- | --- |
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> | 
- </details>
