@@ -13,7 +13,7 @@
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `19` years old
-- 🔗 <a href="https://egagofur.me" style="text-decoration: none" target="_blank">egagofur.me</a> my portfolio website
+- 🔗 <a href="https://egagofur.me" style="text-decoration: none;" target="_blank">egagofur.me</a> my portfolio website
 
 ### Most Used Languages
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
