@@ -13,21 +13,10 @@
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `19` years old
+- 🔗 `https://egagofur.me` my portfolio website
 
 ### Most Used Languages
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
- 
- <p align="left">
-  <a href="https://t.me/egagofur" style="text-decoration: none" target="_blank">
-    <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
-  </a>
-  <a href="https://www.linkedin.com/mwlite/in/egagofur" style="text-decoration: none" target="_blank">
-   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
-  </a>
-  <a href="https://instagram.com/egagofur_" style="text-decoration: none" target="_blank">
-   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
