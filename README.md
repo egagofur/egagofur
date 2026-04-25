@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#0d6efd;"><span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><span style="color:#fafafa;">, I'm </span><a href="https://egagofur.com" style="color:#0d6efd;text-decoration: none;"><span>Ega Gofur</span></a></h1>
+<h1 align="center" style="color:#0d6efd;"><span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><span style="color:#fafafa;">, I'm </span><a href="https://egagofur.studio" style="color:#0d6efd;text-decoration: none;"><span>Ega Gofur</span></a></h1>
 <h4 align="center">Full Stack Engineer at PT DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Full Stack Engineer <a href="/"></h4>
 
 <p>
@@ -13,8 +13,8 @@
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
 - 🧍🏻‍♂️ `19` years old
-- 🔗 <a href="https://egagofur.com" style="text-decoration: none;" target="_blank">egagofur.com</a> my portfolio website
-- 🔗 <a href="https://egagofur.com/resume.pdf" style="text-decoration: none;" target="_blank">resume/cv</a> my resume
+- 🔗 <a href="https://egagofur.studio" style="text-decoration: none;" target="_blank">egagofur.studio</a> my portfolio website
+- 🔗 <a href="https://egagofur.studio/resume.pdf" style="text-decoration: none;" target="_blank">resume/cv</a> my resume
 
 ### Most Used Languages
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
