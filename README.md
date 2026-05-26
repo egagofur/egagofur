@@ -12,7 +12,7 @@
 
 - 👨🏻‍💼 My name is `Ega Gofur`
 - 🏠 Live in `Malang, Indonesia`
-- 🧍🏻‍♂️ `19` years old
+- 🧍🏻‍♂️ `20` years old
 - 🔗 <a href="https://egagofur.studio" style="text-decoration: none;" target="_blank">egagofur.studio</a> my portfolio website
 - 🔗 <a href="https://egagofur.studio/resume.pdf" style="text-decoration: none;" target="_blank">resume/cv</a> my resume
 
