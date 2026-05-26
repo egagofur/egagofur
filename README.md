@@ -60,5 +60,5 @@
 ### Stats 📋
 
  GitHub Stats | Contribution Streak |
-| --- | --- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=egagofur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> | 
+| --- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> | 
