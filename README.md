@@ -60,5 +60,4 @@
 ### Stats 📋
 
  GitHub Stats | Contribution Streak |
-| --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> | 
+| --- | <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> | 
