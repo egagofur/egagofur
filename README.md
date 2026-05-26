@@ -17,7 +17,6 @@
 - 🔗 <a href="https://egagofur.studio/resume.pdf" style="text-decoration: none;" target="_blank">resume/cv</a> my resume
 
 ### Most Used Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=egagofur&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,javascript,php,blade" /> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
