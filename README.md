@@ -1,61 +1,124 @@
-<h1 align="center" style="color:#0d6efd;"><span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><span style="color:#fafafa;">, I'm </span><a href="https://egagofur.studio" style="color:#0d6efd;text-decoration: none;"><span>Ega Gofur</span></a></h1>
-<h4 align="center">Full Stack Engineer at PT DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Full Stack Engineer <a href="/"></h4>
+# Hi, I'm Ega Gofur
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=egagofur&label=Profile%20views&color=0e75b6&style=flat" alt="egagofur" /> 
- <a href="https://github.com/egagofur"><img src="https://img.shields.io/github/followers/egagofur?label=followers&style=social"/></a>
-</p>
+**Software Engineer** building software across the stack, from product interfaces to backend systems, APIs, databases, and infrastructure.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+I care about building software that is **maintainable, scalable, and useful** — not just getting features to work.
 
-### About Me
+Currently working as a Software Engineer at **PT DOT Indonesia**.
 
-- 👨🏻‍💼 My name is `Ega Gofur`
-- 🏠 Live in `Malang, Indonesia`
-- 🧍🏻‍♂️ `20` years old
-- 🔗 <a href="https://egagofur.studio" style="text-decoration: none;" target="_blank">egagofur.studio</a> my portfolio website
-- 🔗 <a href="https://egagofur.studio/resume.pdf" style="text-decoration: none;" target="_blank">resume/cv</a> my resume
+[Portfolio](https://egagofur.studio) · [Resume](https://egagofur.studio/resume.pdf)
 
-### Most Used Languages
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## About
 
-### Tech Stack 👨🏻‍💻
+I'm a software engineer based in Indonesia who enjoys working across different layers of a product.
 
-#### Front-end
- 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,firebase,supabase,astro,vite,tailwind" />
-  </a>
-</p>
+My work typically involves:
 
-#### Back-end
- 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nestjs,prisma,rabbitmq" />
-  </a>
-</p>
+* Designing and building production-ready software
+* Developing APIs and backend systems
+* Designing databases and data flows
+* Building scalable frontend applications
+* Improving existing systems and codebases
+* Exploring AI-assisted software engineering and automation
+* Turning ambiguous requirements into practical technical solutions
 
-#### Databases
- 
- <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-  </a>
-</p>
- 
- 
-#### Tools
+I don't strongly identify with a particular framework or language.
 
- <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,postman,pnpm,vscode,git,github,gitlab,docker,sentry,nix" />
-  </a>
-</p>
+**Technology is a tool. Engineering is the skill.**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-### Stats 📋
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" /> 
+## What I Care About
+
+**Software Architecture**
+Designing systems with clear boundaries, low coupling, and room to evolve.
+
+**Backend & APIs**
+Building reliable APIs, authentication flows, data processing, and integrations.
+
+**Database & Performance**
+Designing schemas, optimizing queries, and thinking about how systems behave as data and traffic grow.
+
+**Frontend Engineering**
+Building interfaces that are maintainable, predictable, and aligned with the product rather than just the design.
+
+**AI & Automation**
+Exploring how AI agents and automation can improve software development workflows and eliminate repetitive work.
+
+**Product Thinking**
+Understanding why something should be built before deciding how it should be built.
+
+---
+
+## Engineering Philosophy
+
+```text
+Understand the problem
+        ↓
+Define the simplest viable solution
+        ↓
+Design the boundaries
+        ↓
+Build with maintainability in mind
+        ↓
+Measure what matters
+        ↓
+Iterate
+```
+
+I prefer boring, understandable solutions over unnecessary complexity.
+
+Good engineering is not about using more technology.
+
+It's about making the right trade-offs.
+
+---
+
+## Selected Interests
+
+* Software architecture
+* Distributed systems
+* Backend engineering
+* API design
+* Database engineering
+* Developer tooling
+* AI agents & automation
+* Developer experience
+* Product engineering
+* System performance
+
+---
+
+## Technology
+
+I work with different technologies depending on the problem.
+
+Some of the tools I've worked with include:
+
+**Frontend**
+React · Next.js · Vite · TypeScript
+
+**Backend**
+Node.js · Laravel · Hono · NestJS
+
+**Data**
+PostgreSQL · MySQL · MongoDB · Redis
+
+**Infrastructure & Tools**
+Docker · Git · GitHub · GitLab · Sentry · Object Storage
+
+The list changes over time.
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" />
+
+---
+
+## Find Me
+
+[Website](https://egagofur.studio) · [GitHub](https://github.com/egagofur)
