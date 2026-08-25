@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm <a href="https://egagofur.studio">Ega Gofur</a></h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> building scalable software, APIs, and products across the stack.
+  <strong>Software Engineer · AI-Driven Builder · Automation Enthusiast</strong>
+</p>
+
+<p align="center">
+  Building software, AI-powered workflows, and automation that turn complex problems into simple systems.
 </p>
 
 <p align="center">
@@ -14,18 +18,14 @@
 
 ### About
 
-Software Engineer at **PT DOT Indonesia** focused on building reliable, scalable, and maintainable software.
+Software Engineer at **PT DOT Indonesia** focused on building scalable software and AI-driven engineering workflows.
 
-I work across **frontend, backend, APIs, databases, system architecture, AI, and automation** — choosing the right technology based on the problem, not the trend.
+I work across **software architecture, backend, frontend, APIs, databases, AI agents, developer tooling, and automation**.
 
-> **Technology changes. Engineering fundamentals don't.**
+My goal is simple: **build systems that do more with less manual work.**
 
-### Areas of Interest
+> **Build software. Automate the boring. Let AI handle the rest.**
 
-`Software Architecture` · `Backend Engineering` · `API Design` · `Database Engineering` · `Frontend Engineering` · `AI & Automation` · `Product Engineering`
+---
 
-### Tech
-
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Laravel` · `PostgreSQL` · `Docker` · `Git`
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" />
+`Software Engineering` · `AI Agents` · `Automation` · `System Architecture` · `API Design` · `Backend` · `Developer Tools`
