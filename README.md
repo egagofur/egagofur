@@ -1,124 +1,31 @@
-# Hi, I'm Ega Gofur
+<h1 align="center">Hi, I'm <a href="https://egagofur.studio">Ega Gofur</a></h1>
 
-**Software Engineer** building software across the stack, from product interfaces to backend systems, APIs, databases, and infrastructure.
+<p align="center">
+  <strong>Software Engineer</strong> building scalable software, APIs, and products across the stack.
+</p>
 
-I care about building software that is **maintainable, scalable, and useful** — not just getting features to work.
-
-Currently working as a Software Engineer at **PT DOT Indonesia**.
-
-[Portfolio](https://egagofur.studio) · [Resume](https://egagofur.studio/resume.pdf)
-
----
-
-## About
-
-I'm a software engineer based in Indonesia who enjoys working across different layers of a product.
-
-My work typically involves:
-
-* Designing and building production-ready software
-* Developing APIs and backend systems
-* Designing databases and data flows
-* Building scalable frontend applications
-* Improving existing systems and codebases
-* Exploring AI-assisted software engineering and automation
-* Turning ambiguous requirements into practical technical solutions
-
-I don't strongly identify with a particular framework or language.
-
-**Technology is a tool. Engineering is the skill.**
+<p align="center">
+  <a href="https://egagofur.studio">Portfolio</a> ·
+  <a href="https://egagofur.studio/resume.pdf">Resume</a> ·
+  <a href="https://github.com/egagofur">GitHub</a>
+</p>
 
 ---
 
-## What I Care About
+### About
 
-**Software Architecture**
-Designing systems with clear boundaries, low coupling, and room to evolve.
+Software Engineer at **PT DOT Indonesia** focused on building reliable, scalable, and maintainable software.
 
-**Backend & APIs**
-Building reliable APIs, authentication flows, data processing, and integrations.
+I work across **frontend, backend, APIs, databases, system architecture, AI, and automation** — choosing the right technology based on the problem, not the trend.
 
-**Database & Performance**
-Designing schemas, optimizing queries, and thinking about how systems behave as data and traffic grow.
+> **Technology changes. Engineering fundamentals don't.**
 
-**Frontend Engineering**
-Building interfaces that are maintainable, predictable, and aligned with the product rather than just the design.
+### Areas of Interest
 
-**AI & Automation**
-Exploring how AI agents and automation can improve software development workflows and eliminate repetitive work.
+`Software Architecture` · `Backend Engineering` · `API Design` · `Database Engineering` · `Frontend Engineering` · `AI & Automation` · `Product Engineering`
 
-**Product Thinking**
-Understanding why something should be built before deciding how it should be built.
+### Tech
 
----
-
-## Engineering Philosophy
-
-```text
-Understand the problem
-        ↓
-Define the simplest viable solution
-        ↓
-Design the boundaries
-        ↓
-Build with maintainability in mind
-        ↓
-Measure what matters
-        ↓
-Iterate
-```
-
-I prefer boring, understandable solutions over unnecessary complexity.
-
-Good engineering is not about using more technology.
-
-It's about making the right trade-offs.
-
----
-
-## Selected Interests
-
-* Software architecture
-* Distributed systems
-* Backend engineering
-* API design
-* Database engineering
-* Developer tooling
-* AI agents & automation
-* Developer experience
-* Product engineering
-* System performance
-
----
-
-## Technology
-
-I work with different technologies depending on the problem.
-
-Some of the tools I've worked with include:
-
-**Frontend**
-React · Next.js · Vite · TypeScript
-
-**Backend**
-Node.js · Laravel · Hono · NestJS
-
-**Data**
-PostgreSQL · MySQL · MongoDB · Redis
-
-**Infrastructure & Tools**
-Docker · Git · GitHub · GitLab · Sentry · Object Storage
-
-The list changes over time.
-
----
-
-## GitHub Stats
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Laravel` · `PostgreSQL` · `Docker` · `Git`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=egagofur&count_private=true&theme=tokyonight" />
-
----
-
-## Find Me
-
-[Website](https://egagofur.studio) · [GitHub](https://github.com/egagofur)
