@@ -11,12 +11,17 @@
 <p align="center">
   <a href="https://egagofur.studio">Portfolio</a> ·
   <a href="https://egagofur.studio/resume.pdf">Resume</a> ·
+  <a href="https://ael.egagofur.studio">AI Engineering Loop</a> ·
   <a href="https://github.com/egagofur">GitHub</a>
 </p>
 
 ---
 
-### About
+## Featured work
+
+- [**AI Engineering Loop**](https://github.com/egagofur/ai-engineering-loop) — a local, evidence-backed engineering loop for coding agents. [Website](https://ael.egagofur.studio)
+
+## About
 
 Software Engineer at **PT DOT Indonesia** focused on building scalable software and AI-driven engineering workflows.
 
